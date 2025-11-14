@@ -119,5 +119,5 @@ Remote work ratio varies notably by job title.
 3.Explore visualizations to compare salary trends.
 
 
-AUTHOR
+AUTHOR :
 DHEERAJ SHARMA
